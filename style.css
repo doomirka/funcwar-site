@@ -1,0 +1,15 @@
+:root { color-scheme: light; }
+body {
+  margin: 0 auto; padding: 2.5rem 1.25rem 4rem; max-width: 42rem;
+  font: 16px/1.65 Georgia, "Liberation Serif", serif;
+  color: #1d1d1f; background: #f4f1ea;
+}
+h1 { font-size: 1.9rem; margin: 0 0 .25rem; letter-spacing: -.01em; }
+.sub { color: #6b6b70; font-size: .9rem; margin: 0 0 2rem; }
+h2 { font-size: 1.15rem; margin: 2rem 0 .5rem; }
+a { color: #a3123f; }
+ol, ul { padding-left: 1.3rem; }
+li { margin: .55rem 0; }
+nav { margin-top: 2.5rem; padding-top: 1.2rem; border-top: 1px solid #d8d3c8; font-size: .9rem; }
+nav a { margin-right: 1.2rem; }
+code { background: #e9e5db; padding: .1rem .3rem; border-radius: 3px; font-size: .9em; }
